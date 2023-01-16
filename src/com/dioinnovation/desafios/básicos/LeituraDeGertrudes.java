@@ -8,7 +8,7 @@ Saída: A saída deverá ser quanto tempo ela vai levar para ler esse livro
 Exemplo: Entrada = 30 / Saída = "10 dias"; Entrada = 15 / Saída = "5 dias";
  */
 
-package com.dioinnovation.desafios;
+package com.dioinnovation.desafios.básicos;
 // Para ler e escrever dados em Java, aqui na DIO padronizamos da seguinte forma:
 // - new Scanner(System.in): cria um leitor de Entradas, com métodos úteis com prefixo "next";
 // - System.out.println:.imprime um texto de Saída (Output) e pulando uma linha.

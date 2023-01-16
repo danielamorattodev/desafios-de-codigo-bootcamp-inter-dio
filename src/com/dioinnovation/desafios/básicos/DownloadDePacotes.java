@@ -9,7 +9,7 @@ Saída: A saída serão as barras sem espaços entre elas.
 Exemplo: Entrada = 1 / Saída = /; Entrada = 5 ; Saída = /////;
 */
 
-package com.dioinnovation.desafios;
+package com.dioinnovation.desafios.básicos;
 
 // Para ler e escrever dados em Java, aqui na DIO padronizamos da seguinte forma:
 // - new Scanner(System.in): cria um leitor de Entradas, com métodos úteis com prefixo "next";

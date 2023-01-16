@@ -8,7 +8,7 @@ Saída: A saída deverá ser a quantidade de doces que cada cliente conseguiu ob
 Exemplo: Entrada = 10 / Saída = "O cliente obteve 20 doces" ; Entrada = 20 / Saída = "O cliente obteve 40 doces".
  */
 
-package com.dioinnovation.desafios;
+package com.dioinnovation.desafios.básicos;
 // Para ler e escrever dados em Java, aqui na DIO padronizamos da seguinte forma:
 // - new Scanner(System.in): cria um leitor de Entradas, com métodos úteis com prefixo "next";
 // - System.out.println:.imprime um texto de Saída (Output) e pulando uma linha.

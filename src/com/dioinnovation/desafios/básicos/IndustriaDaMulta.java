@@ -9,7 +9,7 @@ Saída: A saída será uma mensagem no console dizendo se o motorista foi multad
 Exemplo: Entrada = 60 / Saída = "Não foi multado"; Entrada = 68 / Saída = "Foi multado".
  */
 
-package com.dioinnovation.desafios;
+package com.dioinnovation.desafios.básicos;
 // Para ler e escrever dados em Java, aqui na DIO padronizamos da seguinte forma:
 // - new Scanner(System.in): cria um leitor de Entradas, com métodos úteis com prefixo "next";
 // - System.out.println:.imprime um texto de Saída (Output) e pulando uma linha.
