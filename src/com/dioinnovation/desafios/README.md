@@ -1,7 +1,9 @@
 # Desafios de Código - Bootcamp OrangeTech - DIO + Banco Inter  :orange_heart:
 
-Desafio de código para testar habilidades básicas do uso da sintaxe Java para gerar pequenas soluções, como uso de operações simples, loops 
-e diferentes tipos de váriaveis.
+Desafio de código para testar habilidades do uso da sintaxe Java em diversas soluções, com o uso de operações simples, loops, diferentes tipos de váriaveis
+e métodos (do básico ao intermediário).
+
+## Básico: 
 
 ### :memo: [**Desafio 1: Mesada do Sobrinho.**](https://github.com/danielamorattodev/desafios-de-codigo-bootcamp-inter-dio/blob/master/src/com/dioinnovation/desafios/MesadaDoSobrinho.java)
 
@@ -26,3 +28,17 @@ e diferentes tipos de váriaveis.
 ### :memo: [**Desafio 5: Industria da Multa.**](https://github.com/danielamorattodev/desafios-de-codigo-bootcamp-inter-dio/blob/master/src/com/dioinnovation/desafios/IndustriaDaMulta.java)
 
 ![Desafio5](https://user-images.githubusercontent.com/74005813/211045610-0b6d2d9d-e496-4370-9e62-5630ffb56644.jpg)
+
+---
+
+## Intermediário:
+
+### :memo: [**Desafio 1: Salvando Músicas.**]()
+
+### :memo: [**Desafio 2: Pontos na Carteira.**]()
+
+### :memo: [**Desafio 3: Imóveis Disponíveis.**]()
+
+### :memo: [**Desafio 4: Dc Monalds.**]()
+
+### :memo: [**Desafio 5: Camarote do Blue Cold Ice Clube.**]()
